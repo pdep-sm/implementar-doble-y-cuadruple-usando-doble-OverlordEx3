@@ -2,6 +2,4 @@
 
 ## Integrantes
 
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+- Exequiel Beker <[Perfil en github](https://github.com/OverlordEx3)>(https://github.com/OverlordEx3)
